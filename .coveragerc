@@ -1,0 +1,7 @@
+[run]
+
+omit =
+    */python?.?/*
+    */site-packages/nose/*
+    */tests/*
+    py_lists/__init__.py
