@@ -67,7 +67,7 @@ setup(
     url="http://github.com/ryankanno/py-lists ",
     packages=packages,
     package_data={'': ['LICENSE']},
-    package_dir={'': ''},
+    package_dir={'py_lists': 'py_lists'},
     install_requires=requires,
     license=meta['license'],
     tests_require=tests_require,
